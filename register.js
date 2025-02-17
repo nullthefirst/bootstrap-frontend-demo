@@ -1,4 +1,4 @@
-var data = {};
+var data = { isLoggedIn: false };
 
 var matric = document.getElementById("matricReg");
 var firstName = document.getElementById("firstNameReg");
